@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mis Libros</string>
+    <string name="categories">Categorias</string>
+
+    <string name="boton_categorias">Mostrar Categorias</string>
+    <string name="boton_favoritos">Mostrar Favoritos</string>
+</resources>
